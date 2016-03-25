@@ -15,3 +15,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.line {
+  text-decoration: line-through;
+  color: grey;
+}
